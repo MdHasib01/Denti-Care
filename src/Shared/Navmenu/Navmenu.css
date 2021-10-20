@@ -1,0 +1,29 @@
+.nav-menu {
+  margin-bottom: 70px;
+}
+.logo-txt {
+  color: #002345;
+  font-weight: 700;
+}
+.color-txt {
+  color: #0456a8;
+  font-weight: 700;
+}
+.carucel-img {
+  object-fit: cover;
+  width: 100%;
+  height: 450px;
+}
+.active-style {
+  font-weight: bold;
+  color: "red";
+}
+.nav-login img {
+  width: 40px;
+  border-radius: 50%;
+}
+.nav-login a {
+  text-decoration: none;
+  margin: 0 5px;
+  font-size: 1em;
+}

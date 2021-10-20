@@ -1,0 +1,14 @@
+.footer-section {
+  width: 100%;
+  background-color: black;
+}
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  color: white;
+  padding: 10px;
+  grid-gap: 10px;
+}
+ul li {
+  list-style: none;
+}

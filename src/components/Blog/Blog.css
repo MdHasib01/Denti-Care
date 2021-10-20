@@ -1,0 +1,13 @@
+.blog-card-title {
+  font-weight: 700;
+  font-size: 1.6em;
+  color: #002345;
+}
+.blog-card {
+  box-shadow: 1px 1px 20px #00234521;
+  transition: 0.5s;
+}
+.blog-card:hover {
+  box-shadow: 1px 1px 20px #0023459a;
+  transform: translateY(-5px);
+}
